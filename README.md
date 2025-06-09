@@ -2,6 +2,19 @@
 
 **CS50x** est le cours d'introduction à l'informatique de Harvard, reconnu mondialement et suivi par plus d'un million d'étudiants. Proposé gratuitement via edX, il couvre les fondamentaux de la programmation et de l'informatique.
 
+## 📚 Aperçu du programme
+- Week 1: Langage C - Syntaxe, compilation, types
+- Week 2: Arrays - Tableaux, chaînes, cryptographie  
+- Week 3: Algorithms - Tri, recherche, complexité
+- Week 4: Memory - Pointeurs, allocation dynamique
+- Week 5: Data Structures - Listes, arbres, hash tables
+- Week 6: Python - Transition vers un langage haut niveau
+- Week 7: SQL - Bases de données relationnelles
+- Week 8: Web Frontend - HTML, CSS, JavaScript
+- Week 9: Web Backend - Flask, sessions, cookies
+- Week 10: Conclusion - Récapitulatif et projet final
+- Special: AI Seminar - Intelligence Artificielle 🤖
+
 ## 🎯 Ma démarche
 Passionné par l'informatique, j'entreprends cette formation en parallèle de mes études pour :
 - **Renforcer mes bases** en programmation et algorithmes
