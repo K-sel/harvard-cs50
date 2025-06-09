@@ -31,9 +31,9 @@ Passionné par l'informatique, j'entreprends cette formation en parallèle de me
 
 | Exercice | Description | Difficulté | Énoncé | Code |
 |----------|-------------|------------|-------|-------|
-| **Hello, It's Me** | Programme interactif demandant le nom de l'utilisateur et saluant personnellement | Facile | 📋 [Énoncé](https://cs50.harvard.edu/x/2025/psets/1/me/) | 💻 [Code](https://github.com/K-sel/harvard-cs50/blob/main/week1/assignments/hello.c) |
-| **Mario (More)** | Création de pyramides adjacentes avec des `#`, gestion des espaces et validation des entrées utilisateur (hauteur 1-8) | Difficile | 📋 [Énoncé](https://cs50.harvard.edu/x/2025/psets/1/mario/more/) | 💻 [Code](https://github.com/K-sel/harvard-cs50/blob/main/week1/assignments/mario.c) |
-| **Credit** | Validation de numéros de cartes de crédit utilisant l'algorithme de Luhn, identification du type de carte (AMEX, MASTERCARD, VISA) | Difficile | 📋 [Énoncé](https://cs50.harvard.edu/x/2025/psets/1/credit/) | 💻 [Code](https://github.com/K-sel/harvard-cs50/blob/main/week1/assignments/credit.c) |
+| **Hello, It's Me** | Programme interactif demandant le nom de l'utilisateur et saluant personnellement | Facile | [Énoncé](https://cs50.harvard.edu/x/2025/psets/1/me/) | [Mon code](https://github.com/K-sel/harvard-cs50/blob/main/week1/assignments/hello.c) |
+| **Mario (More)** | Création de pyramides adjacentes avec des `#`, gestion des espaces et validation des entrées utilisateur (hauteur 1-8) | Difficile | [Énoncé](https://cs50.harvard.edu/x/2025/psets/1/mario/more/) | [Mon code](https://github.com/K-sel/harvard-cs50/blob/main/week1/assignments/mario.c) |
+| **Credit** | Validation de numéros de cartes de crédit utilisant l'algorithme de Luhn, identification du type de carte (AMEX, MASTERCARD, VISA) | Difficile | [Énoncé](https://cs50.harvard.edu/x/2025/psets/1/credit/) | [Mon code](https://github.com/K-sel/harvard-cs50/blob/main/week1/assignments/credit.c) |
 
 ## 🚀 Objectifs d'apprentissage
 - Maîtriser les **concepts fondamentaux** de l'informatique
