@@ -1,4 +1,77 @@
+# CS50x - .gitignore
 *
 !*/
 !*.*
+
+# Compiled C programs
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Core dumps
+core
+core.*
+
+# Temporary files
+*.tmp
+*.temp
+*~
 .DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# CS50 library files (if downloaded locally)
+cs50.h
+cs50.c
+libcs50.*
+
+# Python cache files (for later weeks)
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Flask instance folder (Week 9)
+instance/
+
+# SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Node modules (if using JavaScript)
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+*.backup
+
+# Test files (unless specifically needed)
+test
+test.c
+testing
+debug
