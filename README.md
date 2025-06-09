@@ -25,18 +25,6 @@ Le cours couvre les fondamentaux de l'informatique et de la programmation à tra
 - **Projet final** obligatoire
 - **Conférence spéciale** sur l'Intelligence Artificielle
 
-## 🗂️ Structure de ce repository
-
-```
-cs50x/
-├── week0-scratch/     # Projets Scratch
-├── week1-c/          # Premiers programmes en C
-├── week2-arrays/     # Manipulation de tableaux
-├── ...
-├── final-project/    # Projet final du cours
-└── notes/           # Mes notes et réflexions
-```
-
 ## 🚀 Objectifs d'apprentissage
 
 - Maîtriser les **concepts fondamentaux** de l'informatique
