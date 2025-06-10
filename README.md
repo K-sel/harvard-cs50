@@ -31,9 +31,9 @@ Passionné par l'informatique, j'entreprends cette formation en parallèle de me
 
 | Exercice | Description | Difficulté | Énoncé | Mon code |
 |----------|-------------|------------|-------|----------|
-| **Hello, It's Me** | Programme interactif demandant le nom de l'utilisateur et saluant personnellement | Facile | [Énoncé](https://cs50.harvard.edu/x/2025/psets/1/me/) | [hello.c](https://github.com/K-sel/harvard-cs50/blob/main/week1/assignments/hello.c) |
-| **Mario (More)** | Création de pyramides adjacentes avec des #, gestion des espaces et validation des entrées utilisateur (hauteur 1-X) | Difficile | [Énoncé](https://cs50.harvard.edu/x/2025/psets/1/mario/more/) | [mario.c](https://github.com/K-sel/harvard-cs50/blob/main/week1/assignments/mario.c) |
-| **Credit** | Validation de numéros de cartes de crédit utilisant l'algorithme de Luhn, identification du type de carte (AMEX, MASTERCARD, VISA) | Difficile | [Énoncé](https://cs50.harvard.edu/x/2025/psets/1/credit/) | [credit.c](https://github.com/K-sel/harvard-cs50/blob/main/week1/assignments/credit.c) |
+| **Hello, It's Me** | Programme interactif demandant le nom de l'utilisateur et saluant personnellement | Facile | [Énoncé](https://cs50.harvard.edu/x/2025/psets/1/me/) | [hello.c](https://github.com/K-sel/harvard-cs50/blob/main/week1/hello.c) |
+| **Mario (More)** | Création de pyramides adjacentes avec des #, gestion des espaces et validation des entrées utilisateur (hauteur 1-X) | Difficile | [Énoncé](https://cs50.harvard.edu/x/2025/psets/1/mario/more/) | [mario.c](https://github.com/K-sel/harvard-cs50/blob/main/week1/mario.c) |
+| **Credit** | Validation de numéros de cartes de crédit utilisant l'algorithme de Luhn, identification du type de carte (AMEX, MASTERCARD, VISA) | Difficile | [Énoncé](https://cs50.harvard.edu/x/2025/psets/1/credit/) | [credit.c](https://github.com/K-sel/harvard-cs50/blob/main/week1/credit.c) |
 
 ## 🚀 Objectifs d'apprentissage
 - Maîtriser les **concepts fondamentaux** de l'informatique
