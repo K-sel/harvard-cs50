@@ -31,11 +31,11 @@ Passionné par l'informatique, j'entreprends cette formation en parallèle de me
 
 Lien vers le Problem Set Week 1 (devoirs a rendre pour la semaine) : https://cs50.harvard.edu/x/2025/psets/1/
 
-| Exercice | Description | Difficulté | Énoncé | Mon code |
-|----------|-------------|------------|-------|----------|
-| **Hello, It's Me** | Programme interactif demandant le nom de l'utilisateur et saluant personnellement | Facile | [Énoncé](https://cs50.harvard.edu/x/2025/psets/1/me/) | [hello.c](https://github.com/K-sel/harvard-cs50/blob/main/week1/hello.c) |
-| **Mario (hard)** | Création de pyramides adjacentes avec des #, gestion des espaces et validation des entrées utilisateur (hauteur 1-X) | Difficile | [Énoncé](https://cs50.harvard.edu/x/2025/psets/1/mario/more/) | [mario.c](https://github.com/K-sel/harvard-cs50/blob/main/week1/mario.c) |
-| **Credit (hard)** | Validation de numéros de cartes de crédit utilisant l'algorithme de Luhn, identification du type de carte (AMEX, MASTERCARD, VISA) | Difficile | [Énoncé](https://cs50.harvard.edu/x/2025/psets/1/credit/) | [credit.c](https://github.com/K-sel/harvard-cs50/blob/main/week1/credit.c) |
+| Exercice | Description | Énoncé | Mon code |
+|----------|-------------|-------|----------|
+| **Hello, It's Me** | Programme interactif demandant le nom de l'utilisateur et saluant personnellement | [Énoncé](https://cs50.harvard.edu/x/2025/psets/1/me/) | [hello.c](https://github.com/K-sel/harvard-cs50/blob/main/week1/hello.c) |
+| **Mario (hard)** | Création de pyramides adjacentes avec des #, gestion des espaces et validation des entrées utilisateur (hauteur 1-X) | [Énoncé](https://cs50.harvard.edu/x/2025/psets/1/mario/more/) | [mario.c](https://github.com/K-sel/harvard-cs50/blob/main/week1/mario.c) |
+| **Credit (hard)** | Validation de numéros de cartes de crédit utilisant l'algorithme de Luhn, identification du type de carte (AMEX, MASTERCARD, VISA) | [Énoncé](https://cs50.harvard.edu/x/2025/psets/1/credit/) | [credit.c](https://github.com/K-sel/harvard-cs50/blob/main/week1/credit.c) |
 
 ### 🟢 Week 2 - Arrays ✅
 **🔧 Concepts appris** : Tableaux, chaînes de caractères, manipulation de caractères, arguments de ligne de commande, cryptographie
@@ -44,11 +44,11 @@ Lien vers le Problem Set Week 1 (devoirs a rendre pour la semaine) : https://cs5
 
 Lien vers le Problem Set Week 2 (devoirs a rendre pour la semaine) : https://cs50.harvard.edu/x/2025/psets/2/
 
-| Exercice | Description | Difficulté | Énoncé | Mon code |
-|----------|-------------|------------|-------|----------|
-| **Scrabble** | Calcul des points Scrabble pour deux joueurs en fonction de la valeur des lettres, détermination du gagnant | Moyen | [Énoncé](https://cs50.harvard.edu/x/2025/psets/2/scrabble/) | [scrabble.c](https://github.com/K-sel/harvard-cs50/blob/main/week2/scrabble.c) |
-| **Readability** | Calcul de l'indice de lisibilité Coleman-Liau d'un texte basé sur le nombre de lettres, mots et phrases | Moyen | [Énoncé](https://cs50.harvard.edu/x/2025/psets/2/readability/) | [readability.c](https://github.com/K-sel/harvard-cs50/blob/main/week2/readability.c) |
-| **Substitution (hard)** | Implémentation d'un chiffre de substitution avec validation de clé, préservation de la casse et des caractères non-alphabétiques | Difficile | [Énoncé](https://cs50.harvard.edu/x/2025/psets/2/substitution/) | [substitution.c](https://github.com/K-sel/harvard-cs50/blob/main/week2/substitution.c) |
+| Exercice | Description | Énoncé | Mon code |
+|----------|-------------|-------|----------|
+| **Scrabble** | Calcul des points Scrabble pour deux joueurs en fonction de la valeur des lettres, détermination du gagnant | [Énoncé](https://cs50.harvard.edu/x/2025/psets/2/scrabble/) | [scrabble.c](https://github.com/K-sel/harvard-cs50/blob/main/week2/scrabble.c) |
+| **Readability** | Calcul de l'indice de lisibilité Coleman-Liau d'un texte basé sur le nombre de lettres, mots et phrases | [Énoncé](https://cs50.harvard.edu/x/2025/psets/2/readability/) | [readability.c](https://github.com/K-sel/harvard-cs50/blob/main/week2/readability.c) |
+| **Substitution (hard)** | Implémentation d'un chiffre de substitution avec validation de clé, préservation de la casse et des caractères non-alphabétiques | [Énoncé](https://cs50.harvard.edu/x/2025/psets/2/substitution/) | [substitution.c](https://github.com/K-sel/harvard-cs50/blob/main/week2/substitution.c) |
 
 ## 🚀 Objectifs d'apprentissage
 - Maîtriser les **concepts fondamentaux** de l'informatique
