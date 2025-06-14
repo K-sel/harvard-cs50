@@ -29,7 +29,7 @@ Passionné par l'informatique, j'entreprends cette formation en parallèle de me
 
 **📝 Devoirs réalisés :**
 
-Lien vers le Problem Set Week 1 (devoirs a rendre pour la semaines) : https://cs50.harvard.edu/x/2025/psets/1/
+Lien vers le Problem Set Week 1 (devoirs a rendre pour la semaine) : https://cs50.harvard.edu/x/2025/psets/1/
 
 | Exercice | Description | Difficulté | Énoncé | Mon code |
 |----------|-------------|------------|-------|----------|
@@ -42,7 +42,7 @@ Lien vers le Problem Set Week 1 (devoirs a rendre pour la semaines) : https://cs
 
 **📝 Devoirs réalisés :**
 
-Lien vers le Problem Set Week 2 (devoirs a rendre pour la semaines) : https://cs50.harvard.edu/x/2025/psets/2/
+Lien vers le Problem Set Week 2 (devoirs a rendre pour la semaine) : https://cs50.harvard.edu/x/2025/psets/2/
 
 | Exercice | Description | Difficulté | Énoncé | Mon code |
 |----------|-------------|------------|-------|----------|
