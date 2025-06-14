@@ -37,7 +37,7 @@ Lien vers le Problem Set Week 1 (devoirs a rendre pour la semaine) : https://cs5
 | **Mario (hard)** | Création de pyramides adjacentes avec des #, gestion des espaces et validation des entrées utilisateur (hauteur 1-X) | [Énoncé](https://cs50.harvard.edu/x/2025/psets/1/mario/more/) | [mario.c](https://github.com/K-sel/harvard-cs50/blob/main/week1/mario.c) |
 | **Credit (hard)** | Validation de numéros de cartes de crédit utilisant l'algorithme de Luhn, identification du type de carte (AMEX, MASTERCARD, VISA) | [Énoncé](https://cs50.harvard.edu/x/2025/psets/1/credit/) | [credit.c](https://github.com/K-sel/harvard-cs50/blob/main/week1/credit.c) |
 
-### 🟢 Week 2 - Arrays ✅
+### 🟢 Week 2 - Arrays (C) ✅
 **🔧 Concepts appris** : Tableaux, chaînes de caractères, manipulation de caractères, arguments de ligne de commande, cryptographie
 
 **📝 Devoirs réalisés :**
