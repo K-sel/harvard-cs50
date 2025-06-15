@@ -1,0 +1,11 @@
+sort1 uses: bubble
+
+How do you know?: because on a sorted50000.txt it did almost the same time as the sort2 which is the faster so by deduction the merge sort. We can so deduct that it is a bubble sort algorithm with an exit feature if no swap at the first pass through because it seems that an omega(n) is happening.
+
+sort2 uses: merge
+
+How do you know?: because its the faster sorting algorithm and it is actually performing the same time even if the file is already sorted. Which leads us to the conclusion that it is theta(n log n) so the merge sort.
+
+sort3 uses: selection
+
+How do you know?: selection sort have a theta(n²) and the running of sort3 produces almost the same running time running sorted and random50000. so basically it relfects the theta(n²).
