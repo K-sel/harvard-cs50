@@ -55,7 +55,7 @@ Lien vers le Problem Set Week 2 (devoirs a rendre pour la semaine) : https://cs5
 
 **📝 Devoirs réalisés :**
 
-Lien vers le Problem Set Week 2 (devoirs a rendre pour la semaine) : https://cs50.harvard.edu/x/2025/psets/2/
+Lien vers le Problem Set Week 3 (devoirs a rendre pour la semaine) : https://cs50.harvard.edu/x/2025/psets/3/
 
 | Exercice | Description | Énoncé | Mon code |
 |----------|-------------|-------|----------|
