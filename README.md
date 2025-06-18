@@ -50,6 +50,21 @@ Lien vers le Problem Set Week 2 (devoirs a rendre pour la semaine) : https://cs5
 | **Readability** | Calcul de l'indice de lisibilité Coleman-Liau d'un texte basé sur le nombre de lettres, mots et phrases | [Énoncé](https://cs50.harvard.edu/x/2025/psets/2/readability/) | [readability.c](https://github.com/K-sel/harvard-cs50/blob/main/week2/readability.c) |
 | **Substitution (hard)** | Implémentation d'un chiffre de substitution avec validation de clé, préservation de la casse et des caractères non-alphabétiques | [Énoncé](https://cs50.harvard.edu/x/2025/psets/2/substitution/) | [substitution.c](https://github.com/K-sel/harvard-cs50/blob/main/week2/substitution.c) |
 
+### 🟢 Week 3 - Algorithmie & Récursivité (C) ✅
+**💡 Concepts appris** : Algorithmes de tri (bubble, selection, insertion, merge), recherche (linéaire et binaire), complexité algorithmique (Big O, Oméga (Ω) et Théta (Θ)) , efficacité des algorithmes, récursivité (introduction)
+
+**📝 Devoirs réalisés :**
+
+Lien vers le Problem Set Week 2 (devoirs a rendre pour la semaine) : https://cs50.harvard.edu/x/2025/psets/2/
+
+| Exercice | Description | Énoncé | Mon code |
+|----------|-------------|-------|----------|
+| **Sort (easy)** | Analyse de trois programmes pour identifier les algorithmes de tri implémentés (bubble, selection, merge) via observation de leur comportement et complexité  | [Énoncé](https://cs50.harvard.edu/x/2025/psets/3/sort/) | [sort](https://github.com/K-sel/harvard-cs50/blob/main/week3/sort/) |
+| **Collatz** | Calcul récursif du nombre de divisions nécéssaires d'un nombre pour arriver à 1. | [Énoncé](https://cs50.harvard.edu/x/2025/shorts/recursion/) | [collatz.c](https://github.com/K-sel/harvard-cs50/blob/main/week3/collatz.c) |
+| **Plurality** | Implémentation d’un vote majoritaire simple où le ou les candidats avec le plus de voix gagnent	 | [Énoncé](https://cs50.harvard.edu/x/2025/psets/3/plurality/) | [plurality.c](https://github.com/K-sel/harvard-cs50/blob/main/week3/plurality.c) |
+| **Runoff (hard)** | Simulation d’un scrutin à vote préférentiel (ranked-choice) avec éliminations successives jusqu’à obtenir une majorité absolue | [Énoncé](https://cs50.harvard.edu/x/2025/psets/3/runoff/) | [runoff.c](https://github.com/K-sel/harvard-cs50/blob/main/week3/runoff.c) |
+
+
 ## 🚀 Objectifs d'apprentissage
 - Maîtriser les **concepts fondamentaux** de l'informatique
 - Développer une **pensée algorithmique** rigoureuse  
