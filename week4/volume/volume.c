@@ -53,11 +53,8 @@ int main(int argc, char *argv[])
     */
     BYTE header[HEADER_SIZE];
 
-    for (int i = 0; i < HEADER_SIZE; i++)
-    {
-        fread(&header, sizeof(header), 1, input);
-        fwrite(&header, sizeof(header), 1, output);
-    }
+    fread(&header, sizeof(header), 1, input);
+    fwrite(&header, sizeof(header), 1, output);
 
     /*
     Loop as long as i read sum.
