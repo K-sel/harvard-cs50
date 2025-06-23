@@ -34,8 +34,8 @@ Lien vers le Problem Set Week 1 (devoirs a rendre pour la semaine) : https://cs5
 | Exercice | Description | Énoncé | Mon code |
 |----------|-------------|-------|----------|
 | **Hello, It's Me** | Programme interactif demandant le nom de l'utilisateur et saluant personnellement | [Énoncé](https://cs50.harvard.edu/x/2025/psets/1/me/) | [hello.c](https://github.com/K-sel/harvard-cs50/blob/main/week1/hello.c) |
-| **Mario (hard)** | Création de pyramides adjacentes avec des #, gestion des espaces et validation des entrées utilisateur (hauteur 1-X) | [Énoncé](https://cs50.harvard.edu/x/2025/psets/1/mario/more/) | [mario.c](https://github.com/K-sel/harvard-cs50/blob/main/week1/mario.c) |
-| **Credit (hard)** | Validation de numéros de cartes de crédit utilisant l'algorithme de Luhn, identification du type de carte (AMEX, MASTERCARD, VISA) | [Énoncé](https://cs50.harvard.edu/x/2025/psets/1/credit/) | [credit.c](https://github.com/K-sel/harvard-cs50/blob/main/week1/credit.c) |
+| **Mario (more)** | Création de pyramides adjacentes avec des #, gestion des espaces et validation des entrées utilisateur (hauteur 1-X) | [Énoncé](https://cs50.harvard.edu/x/2025/psets/1/mario/more/) | [mario.c](https://github.com/K-sel/harvard-cs50/blob/main/week1/mario.c) |
+| **Credit (more)** | Validation de numéros de cartes de crédit utilisant l'algorithme de Luhn, identification du type de carte (AMEX, MASTERCARD, VISA) | [Énoncé](https://cs50.harvard.edu/x/2025/psets/1/credit/) | [credit.c](https://github.com/K-sel/harvard-cs50/blob/main/week1/credit.c) |
 
 ### 🟢 Week 2 - Arrays (C) ✅
 **🔧 Concepts appris** : Tableaux, chaînes de caractères, manipulation de caractères, arguments de ligne de commande, cryptographie
@@ -48,7 +48,7 @@ Lien vers le Problem Set Week 2 (devoirs a rendre pour la semaine) : https://cs5
 |----------|-------------|-------|----------|
 | **Scrabble** | Calcul des points Scrabble pour deux joueurs en fonction de la valeur des lettres, détermination du gagnant | [Énoncé](https://cs50.harvard.edu/x/2025/psets/2/scrabble/) | [scrabble.c](https://github.com/K-sel/harvard-cs50/blob/main/week2/scrabble.c) |
 | **Readability** | Calcul de l'indice de lisibilité Coleman-Liau d'un texte basé sur le nombre de lettres, mots et phrases | [Énoncé](https://cs50.harvard.edu/x/2025/psets/2/readability/) | [readability.c](https://github.com/K-sel/harvard-cs50/blob/main/week2/readability.c) |
-| **Substitution (hard)** | Implémentation d'un chiffre de substitution avec validation de clé, préservation de la casse et des caractères non-alphabétiques | [Énoncé](https://cs50.harvard.edu/x/2025/psets/2/substitution/) | [substitution.c](https://github.com/K-sel/harvard-cs50/blob/main/week2/substitution.c) |
+| **Substitution (more)** | Implémentation d'un chiffre de substitution avec validation de clé, préservation de la casse et des caractères non-alphabétiques | [Énoncé](https://cs50.harvard.edu/x/2025/psets/2/substitution/) | [substitution.c](https://github.com/K-sel/harvard-cs50/blob/main/week2/substitution.c) |
 
 ### 🟢 Week 3 - Algorithmie & Récursivité (C) ✅
 **💡 Concepts appris** : Algorithmes de tri (bubble, selection, insertion, merge), recherche (linéaire et binaire), complexité algorithmique (Big O, Oméga (Ω) et Théta (Θ)) , efficacité des algorithmes, récursivité (introduction)
@@ -62,7 +62,7 @@ Lien vers le Problem Set Week 3 (devoirs a rendre pour la semaine) : https://cs5
 | **Sort (easy)** | Analyse de trois programmes pour identifier les algorithmes de tri implémentés (bubble, selection, merge) via observation de leur comportement et complexité  | [Énoncé](https://cs50.harvard.edu/x/2025/psets/3/sort/) | [sort](https://github.com/K-sel/harvard-cs50/blob/main/week3/sort/) |
 | **Collatz** | Calcul récursif du nombre de divisions nécéssaires d'un nombre pour arriver à 1. | [Énoncé](https://cs50.harvard.edu/x/2025/shorts/recursion/) | [collatz.c](https://github.com/K-sel/harvard-cs50/blob/main/week3/collatz.c) |
 | **Plurality** | Implémentation d’un vote majoritaire simple où le ou les candidats avec le plus de voix gagnent	 | [Énoncé](https://cs50.harvard.edu/x/2025/psets/3/plurality/) | [plurality.c](https://github.com/K-sel/harvard-cs50/blob/main/week3/plurality.c) |
-| **Runoff (hard)** | Simulation d’un scrutin à vote préférentiel (ranked-choice) avec éliminations successives jusqu’à obtenir une majorité absolue | [Énoncé](https://cs50.harvard.edu/x/2025/psets/3/runoff/) | [runoff.c](https://github.com/K-sel/harvard-cs50/blob/main/week3/runoff.c) |
+| **Runoff (more)** | Simulation d’un scrutin à vote préférentiel (ranked-choice) avec éliminations successives jusqu’à obtenir une majorité absolue | [Énoncé](https://cs50.harvard.edu/x/2025/psets/3/runoff/) | [runoff.c](https://github.com/K-sel/harvard-cs50/blob/main/week3/runoff.c) |
 
 
 ## 🚀 Objectifs d'apprentissage
