@@ -64,6 +64,28 @@ Lien vers le Problem Set Week 3 (devoirs a rendre pour la semaine) : https://cs5
 | **Plurality** | Implémentation d’un vote majoritaire simple où le ou les candidats avec le plus de voix gagnent	 | [Énoncé](https://cs50.harvard.edu/x/2025/psets/3/plurality/) | [plurality.c](https://github.com/K-sel/harvard-cs50/blob/main/week3/plurality.c) |
 | **Runoff (more)** | Simulation d’un scrutin à vote préférentiel (ranked-choice) avec éliminations successives jusqu’à obtenir une majorité absolue | [Énoncé](https://cs50.harvard.edu/x/2025/psets/3/runoff/) | [runoff.c](https://github.com/K-sel/harvard-cs50/blob/main/week3/runoff.c) |
 
+### 🟢 Week 4 – Memory ✅
+
+**🔧 Concepts appris :** Pointeurs, gestion de la mémoire dynamique (heap vs stack), manipulation de fichiers (`fread`, `fwrite`), formats BMP et JPEG ([cs50.harvard.edu][1])
+
+**📝 Devoirs réalisés :**
+Lien vers le Problem Set Week 4 : [https://cs50.harvard.edu/x/2025/psets/4/](https://cs50.harvard.edu/x/2025/psets/4/) ([cs50.harvard.edu][2])
+
+| Exercice          | Description                                                                      | Énoncé                                                                                               | Mon code                                                                             |
+| ----------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| **Filter (less)** | Application de filtres simples (grayscale, noir et blanc, réflexion) sur des BMP | [Énoncé (filter-less)](https://cs50.harvard.edu/x/2025/psets/4/filter/less/) ([cs50.harvard.edu][3]) | [filter-less.c](https://github.com/K-sel/harvard-cs50/blob/main/week4/filter-less.c) |
+| **Recover**       | Récupération de fichiers JPEG à partir d’une image brute de carte mémoire        | [Énoncé](https://cs50.harvard.edu/x/2025/psets/4/recover/) ([cs50.harvard.edu][4])                   | [recover.c](https://github.com/K-sel/harvard-cs50/blob/main/week4/recover.c)         |
+| **Volume**        | Modification du volume (agrandissement ou atténuation) d’un fichier audio WAV    | [Énoncé (volume)](https://cs50.harvard.edu/x/2025/psets/4/volume/) ([cs50.harvard.edu][5])           | [volume.c](https://github.com/K-sel/harvard-cs50/blob/main/week4/volume.c)           |
+
+---
+
+[1]: https://cs50.harvard.edu/x/2025/weeks/4/ "Week 4 Memory - CS50x 2025"
+[2]: https://cs50.harvard.edu/x/2025/psets/4/ "Problem Set 4 - CS50x 2025"
+[3]: https://cs50.harvard.edu/x/2025/psets/4/filter/less/ "Filter - CS50x 2025"
+[4]: https://cs50.harvard.edu/x/2025/psets/4/recover/?utm_source=chatgpt.com "Recover - CS50x 2025"
+[5]: https://cs50.harvard.edu/x/2025/psets/4/volume/ "Volume - CS50x 2025"
+
+
 
 ## 🚀 Objectifs d'apprentissage
 - Maîtriser les **concepts fondamentaux** de l'informatique
