@@ -80,7 +80,7 @@ Lien vers le Problem Set Week 4 : [https://cs50.harvard.edu/x/2025/psets/4/](htt
 
 ### 🟢 Week 5 – Structures de données ✅
 
-**🧠 Concepts appris :** FIFO (Queue), LIFO(Stack), Linked lists, Binary Trees, Hash tables, Tries, Doubly Linked list, gestions des collisions, fonctions de hachage, gestion dynamique de la mémoire (malloc, free, realloc), pointeurs, structures de données, itérations dans structures de données complexe.
+**🧠 Concepts appris :** FIFO (Queue), LIFO (Stack), linked lists, binary trees, hash tables, tries, doubly linked lists, gestion des collisions, fonctions de hachage, gestion dynamique de la mémoire (`malloc`, `free`, `realloc`), pointeurs, structures de données imbriquées, itération dans des structures de données complexes.
 
 **📝 Devoirs réalisés :**
 Lien vers le Problem Set Week 5 : [https://cs50.harvard.edu/x/2025/psets/5/](https://cs50.harvard.edu/x/2025/psets/5/)
@@ -88,7 +88,8 @@ Lien vers le Problem Set Week 5 : [https://cs50.harvard.edu/x/2025/psets/5/](htt
 | Exercice        | Description                                                                                | Énoncé                                                     | Mon code                                                                                         |
 | --------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 | **Inheritance** | Simulation de l’hérédité génétique du groupe sanguin via une structure d’arbre de données  | [Énoncé](https://cs50.harvard.edu/x/2025/psets/5/inheritance)          | [inheritance.c](https://github.com/K-sel/harvard-cs50/blob/main/week5/inheritance/inheritance.c) |
-| **Speller**     | Implémentation d’un correcteur orthographique utilisant une table de hachage et des listes | [Énoncé](https://cs50.harvard.edu/x/2025/psets/5/speller/) | [dictionary.c](https://github.com/K-sel/harvard-cs50/blob/main/week5/speller/dictionary.c)       |
+| **Speller**     | Implémentation d’un correcteur orthographique performant basé sur une table de hachage (Hash table) et des Linked lists | [Énoncé](https://cs50.harvard.edu/x/2025/psets/5/speller/) | [dictionary.c](https://github.com/K-sel/harvard-cs50/blob/main/week5/speller/dictionary.c)       |
+
 
 
 ---
