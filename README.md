@@ -73,9 +73,9 @@ Lien vers le Problem Set Week 4 : [https://cs50.harvard.edu/x/2025/psets/4/](htt
 
 | Exercice          | Description                                                                      | Énoncé                                                                                               | Mon code                                                                             |
 | ----------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| **Filter (less)** | Application de filtres simples (grayscale, noir et blanc, réflexion) sur des BMP | [Énoncé (filter-less)](https://cs50.harvard.edu/x/2025/psets/4/filter/less/)  | [filter-less.c](https://github.com/K-sel/harvard-cs50/blob/main/week4/filter-less.c) |
-| **Recover**       | Récupération de fichiers JPEG à partir d’une image brute de carte mémoire        | [Énoncé](https://cs50.harvard.edu/x/2025/psets/4/recover/)                    | [recover.c](https://github.com/K-sel/harvard-cs50/blob/main/week4/recover.c)         |
-| **Volume**        | Modification du volume (agrandissement ou atténuation) d’un fichier audio WAV    | [Énoncé (volume)](https://cs50.harvard.edu/x/2025/psets/4/volume/)            | [volume.c](https://github.com/K-sel/harvard-cs50/blob/main/week4/volume.c)           |
+| **Filter (less)** | Application de filtres simples (grayscale, noir et blanc, réflexion) sur des BMP | [Énoncé (filter-less)](https://cs50.harvard.edu/x/2025/psets/4/filter/less/)  | [filter-less.c](https://github.com/K-sel/harvard-cs50/blob/main/week4/filter-less/helpers.c) |
+| **Recover**       | Récupération de fichiers JPEG à partir d’une image brute de carte mémoire        | [Énoncé](https://cs50.harvard.edu/x/2025/psets/4/recover/)                    | [recover.c](https://github.com/K-sel/harvard-cs50/blob/main/week4/recover/recover.c)         |
+| **Volume**        | Modification du volume (agrandissement ou atténuation) d’un fichier audio WAV    | [Énoncé (volume)](https://cs50.harvard.edu/x/2025/psets/4/volume/)            | [volume.c](https://github.com/K-sel/harvard-cs50/blob/main/week4/volume/volume.c)           |
 
 ---
 
