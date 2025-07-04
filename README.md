@@ -77,6 +77,20 @@ Lien vers le Problem Set Week 4 : [https://cs50.harvard.edu/x/2025/psets/4/](htt
 | **Recover**       | Récupération de fichiers JPEG à partir d’une image brute de carte mémoire        | [Énoncé](https://cs50.harvard.edu/x/2025/psets/4/recover/)                    | [recover.c](https://github.com/K-sel/harvard-cs50/blob/main/week4/recover/recover.c)         |
 | **Volume**        | Modification du volume (agrandissement ou atténuation) d’un fichier audio WAV    | [Énoncé (volume)](https://cs50.harvard.edu/x/2025/psets/4/volume/)            | [volume.c](https://github.com/K-sel/harvard-cs50/blob/main/week4/volume/volume.c)           |
 
+
+### 🟢 Week 5 – Structures de données ✅
+
+**🧠 Concepts appris :** FIFO (Queue), LIFO(Stack), Linked lists, Binary Trees, Hash tables, Tries, Doubly Linked list, gestions des collisions, fonctions de hachage, gestion dynamique de la mémoire (malloc, free, realloc), pointeurs, structures de données, itérations dans structures de données complexe.
+
+**📝 Devoirs réalisés :**
+Lien vers le Problem Set Week 5 : [https://cs50.harvard.edu/x/2025/psets/5/](https://cs50.harvard.edu/x/2025/psets/5/)
+
+| Exercice        | Description                                                                                | Énoncé                                                     | Mon code                                                                                         |
+| --------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| **Inheritance** | Simulation de l’hérédité génétique du groupe sanguin via une structure d’arbre de données  | [Énoncé](https://cs50.harvard.edu/x/2025/psets/5/inheritance)          | [inheritance.c](https://github.com/K-sel/harvard-cs50/blob/main/week5/inheritance/inheritance.c) |
+| **Speller**     | Implémentation d’un correcteur orthographique utilisant une table de hachage et des listes | [Énoncé](https://cs50.harvard.edu/x/2025/psets/5/speller/) | [dictionary.c](https://github.com/K-sel/harvard-cs50/blob/main/week5/speller/dictionary.c)       |
+
+
 ---
 
 
