@@ -90,7 +90,7 @@ Lien vers le Problem Set Week 5 : [https://cs50.harvard.edu/x/2025/psets/5/](htt
 | **Inheritance** | Simulation de l’hérédité génétique du groupe sanguin via une structure d’arbre de données.  | [Énoncé](https://cs50.harvard.edu/x/2025/psets/5/inheritance)          | [inheritance.c](https://github.com/K-sel/harvard-cs50/blob/main/week5/inheritance/inheritance.c) |
 | **Speller**     | Implémentation d’un correcteur orthographique performant basé sur une table de hachage (Hash table) et des Linked lists. | [Énoncé](https://cs50.harvard.edu/x/2025/psets/5/speller/) | [dictionary.c](https://github.com/K-sel/harvard-cs50/blob/main/week5/speller/dictionary.c)       |
 
-PS : Pour runner speller, dézipper le fichier puis déplacer dictonary.c dans le folder fraichement dézippé. Ensuite runnez en suivant les instructions données dans l'énoncé de CS50.
+PS : Pour runner speller, dézipper le fichier puis déplacer dictionary.c dans le folder fraichement dézippé. Ensuite runnez en suivant les instructions données dans l'énoncé de CS50.
 
 ---
 
