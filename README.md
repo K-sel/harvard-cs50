@@ -92,7 +92,7 @@ Lien vers le Problem Set Week 5 : [https://cs50.harvard.edu/x/2025/psets/5/](htt
 
 PS : Pour runner speller, dézipper le fichier puis déplacer dictionary.c dans le folder fraichement dézippé. Ensuite runnez en suivant les instructions données dans l'énoncé de CS50.
 
-### 🟢 Week 6 – Python & Analyse ADN ✅
+### 🟢 Week 6 – Python ✅
 
 **🐍 Concepts appris :** Introduction à Python, syntaxe plus simple que C, typage dynamique, listes, dictionnaires, boucles, fonctions, gestion de fichiers, parsing de CSV.
 
@@ -106,7 +106,7 @@ Lien vers le Problem Set Week 6 : [https://cs50.harvard.edu/x/2025/psets/6/](htt
 | **Mario**       | Reproduction de la pyramide de Mario avec boucles et chaînes en Python                   | [Énoncé](https://cs50.harvard.edu/x/2025/psets/6/mario/more/)  | [mario.py](https://github.com/K-sel/harvard-cs50/blob/main/week6/mario.py)                   |
 | **Credit**      | Réécriture en Python de l’algorithme de Luhn pour valider les numéros de carte de crédit | [Énoncé](https://cs50.harvard.edu/x/2025/psets/6/credit/)      | [credit.py](https://github.com/K-sel/harvard-cs50/blob/main/week6/credit.py)                |
 | **Readability** | Calcul de l’indice de lisibilité d’un texte avec l’algorithme de Coleman-Liau            | [Énoncé](https://cs50.harvard.edu/x/2025/psets/6/readability/) | [readability.py](https://github.com/K-sel/harvard-cs50/blob/main/week6/readability.py) |
-| **DNA**         | Analyse d'une séquence ADN pour identifier un individu en fonction du nombre de STR      | [Énoncé](https://cs50.harvard.edu/x/2025/psets/6/dna/)         | [dna.py](https://github.com/K-sel/harvard-cs50/blob/main/week6/dna/dna.py)                         |
+| **DNA**         | Analyse d'une séquence ADN pour identifier un individu en fonction du nombre de STR. Première expérience de parsing de CSV et prise en main de fonction itératives      | [Énoncé](https://cs50.harvard.edu/x/2025/psets/6/dna/)         | [dna.py](https://github.com/K-sel/harvard-cs50/blob/main/week6/dna/dna.py)                         |
 
 ---
 
