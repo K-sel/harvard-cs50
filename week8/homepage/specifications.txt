@@ -1,0 +1,40 @@
+HTML tags (≥10 used):
+1) nav
+2) header
+3) main
+4) section
+5) article
+6) h1 / h2 / h3
+7) p
+8) ul / li / ol
+9) img / figure / figcaption
+10) a
+(+ button, footer, form, input, textarea, label, small, span…)
+
+CSS properties (≥5):
+- line-height
+- background-color
+- color
+- margin
+- padding
+- border-radius
+- text-decoration
+- box-shadow
+- border-top
+- background (linear-gradient)
+
+CSS selectors (≥5):
+- body
+- #hero
+- .lead
+- .navbar .nav-link:hover
+- .btn-custom
+- footer
+- img.rounded
+- @media (max-width: 576px)
+
+Bootstrap (description, 1 sentence):
+The site uses Bootstrap 4.5 for the responsive navigation bar, grid layout (container/row/col), cards, buttons, and alerts.
+
+JavaScript (description, 1 sentence):
+The script adds a greeting button on the homepage and displays a confirmation message when the contact form is submitted.
