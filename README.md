@@ -119,8 +119,8 @@ Lien vers le Problem Set Week 7 : [https://cs50.harvard.edu/x/2025/psets/7/](htt
 
 | Exercice   | Description                                                                                       | Énoncé                                                                                 | Mon code                                                                 |
 |------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| **Songs**  | Requêtes SQL pour analyser une base de chansons (artistes, genres, attributs audio, classements). | [Énoncé](https://cs50.harvard.edu/x/2025/psets/7/songs/)                               | [songs.sql](https://github.com/K-sel/harvard-cs50/blob/main/week7/songs/songs.sql) |
-| **Movies** | Écriture de requêtes SQL pour analyser une base de films, acteurs et réalisateurs.                | [Énoncé](https://cs50.harvard.edu/x/2025/psets/7/movies/)                              | [movies.sql](https://github.com/K-sel/harvard-cs50/blob/main/week7/movies/movies.sql) |
+| **Songs**  | Requêtes SQL pour analyser une base de chansons (artistes, genres, attributs audio, classements). | [Énoncé](https://cs50.harvard.edu/x/2025/psets/7/songs/)                               | [songs](https://github.com/K-sel/harvard-cs50/blob/main/week7/songs/) |
+| **Movies** | Écriture de requêtes SQL pour analyser une base de films, acteurs et réalisateurs.                | [Énoncé](https://cs50.harvard.edu/x/2025/psets/7/movies/)                              | [movies](https://github.com/K-sel/harvard-cs50/blob/main/week7/movies/) |
 | **Fiftyville** | Enquête criminelle via SQL : croiser plusieurs tables pour identifier le coupable.            | [Énoncé](https://cs50.harvard.edu/x/2025/psets/7/fiftyville/)                          | [log.sql](https://github.com/K-sel/harvard-cs50/blob/main/week7/fiftyville/log.sql)   |
 
 
