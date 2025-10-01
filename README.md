@@ -108,6 +108,35 @@ Lien vers le Problem Set Week 6 : [https://cs50.harvard.edu/x/2025/psets/6/](htt
 | **Readability** | Calcul de l’indice de lisibilité d’un texte avec l’algorithme de Coleman-Liau            | [Énoncé](https://cs50.harvard.edu/x/2025/psets/6/readability/) | [readability.py](https://github.com/K-sel/harvard-cs50/blob/main/week6/readability.py) |
 | **DNA**         | Analyse d'une séquence ADN pour identifier un individu en fonction du nombre de STR. Première expérience de parsing de CSV et prise en main de fonction itératives      | [Énoncé](https://cs50.harvard.edu/x/2025/psets/6/dna/)         | [dna.py](https://github.com/K-sel/harvard-cs50/blob/main/week6/dna/dna.py)                         |
 
+
+### 🟢 Week 7 – SQL ✅
+
+**🗄️ Concepts appris :** Bases de données relationnelles, SQL (SELECT, WHERE, ORDER BY), agrégations (COUNT, AVG, SUM), GROUP BY / HAVING, jointures (JOIN), clés primaires/étrangères, vues et normalisation.
+
+**📝 Devoirs réalisés :**
+
+Lien vers le Problem Set Week 7 : [https://cs50.harvard.edu/x/2025/psets/7/](https://cs50.harvard.edu/x/2025/psets/7/)
+
+| Exercice   | Description                                                                                       | Énoncé                                                                                 | Mon code                                                                 |
+|------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| **Songs**  | Requêtes SQL pour analyser une base de chansons (artistes, genres, attributs audio, classements). | [Énoncé](https://cs50.harvard.edu/x/2025/psets/7/songs/)                               | [songs](https://github.com/K-sel/harvard-cs50/blob/main/week7/songs/) |
+| **Movies** | Écriture de requêtes SQL pour analyser une base de films, acteurs et réalisateurs.                | [Énoncé](https://cs50.harvard.edu/x/2025/psets/7/movies/)                              | [movies](https://github.com/K-sel/harvard-cs50/blob/main/week7/movies/) |
+| **Fiftyville** | Enquête criminelle via SQL : croiser plusieurs tables pour identifier le coupable.            | [Énoncé](https://cs50.harvard.edu/x/2025/psets/7/fiftyville/)                          | [log.sql](https://github.com/K-sel/harvard-cs50/blob/main/week7/fiftyville/log.sql)   |
+
+
+### 🟢 Week 8 – Web Frontend (HTML, CSS, JS) ✅
+
+**🌐 Concepts appris :** Structure HTML5, balises et sémantique, stylisation avec CSS (sélecteurs, classes, IDs, responsive design), interactivité avec JavaScript (DOM, événements, manipulation de contenu), intégration de Bootstrap pour créer rapidement des interfaces modernes et adaptatives.
+
+**📝 Devoirs réalisés :**
+
+Lien vers le Problem Set Week 8 : [https://cs50.harvard.edu/x/2025/psets/8/](https://cs50.harvard.edu/x/2025/psets/8/)
+
+| Exercice      | Description                                                                 | Énoncé                                                                 | Mon code                                                                                 |
+|---------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| **Trivia**    | Création d’une page web interactive avec questions de quiz (choix multiples et réponses libres) utilisant HTML, CSS et JavaScript | [Énoncé](https://cs50.harvard.edu/x/2025/psets/8/trivia/)              | [trivia](https://github.com/K-sel/harvard-cs50/blob/main/week8/trivia/)                  |
+| **Homepage**  | Développement d’un mini-site personnel multi-pages, responsive et stylisé avec Bootstrap et CSS personnalisé | [Énoncé](https://cs50.harvard.edu/x/2025/psets/8/homepage/)            | [homepage](https://github.com/K-sel/harvard-cs50/blob/main/week8/homepage/)              |
+
 ---
 
 
