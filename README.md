@@ -139,6 +139,49 @@ Lien vers le Problem Set Week 8 : [https://cs50.harvard.edu/x/2025/psets/8/](htt
 
 ---
 
+### 🟢 Week 9 – Web Backend (Flask) ✅
+
+**⚙️ Concepts appris :** Framework Flask, routing HTTP (GET/POST), templates Jinja2, sessions utilisateur, bases de données SQLite avec SQL intégré, gestion des formulaires, cookies, architecture MVC (Model-View-Controller).
+
+**📝 Devoirs réalisés :**
+
+Lien vers le Problem Set Week 9 : [https://cs50.harvard.edu/x/2025/psets/9/](https://cs50.harvard.edu/x/2025/psets/9/)
+
+| Exercice      | Description                                                                                       | Énoncé                                                         | Mon code                                                                                 |
+|---------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| **Birthdays** | Application Flask permettant d'enregistrer et d'afficher des anniversaires dans une base SQLite, avec formulaire d'ajout et possibilité de suppression | [Énoncé](https://cs50.harvard.edu/x/2025/psets/9/birthdays/)   | [birthdays](https://github.com/K-sel/harvard-cs50/blob/main/week9/birthdays/)            |
+| **Finance**   | Simulation complète d'une plateforme de trading d'actions : création de compte, achat/vente d'actions en temps réel via API, historique des transactions, gestion de portefeuille et solde | [Énoncé](https://cs50.harvard.edu/x/2025/psets/9/finance/)     | [finance](https://github.com/K-sel/harvard-cs50/blob/main/week9/finance/)                |
+
+---
+
+## 🎓 Projet Final – Semantic Search Engine
+
+**Le couronnement de CS50 :** Le projet final permet d'appliquer librement toutes les compétences acquises durant la formation. J'ai choisi de développer un **moteur de recherche sémantique** utilisant l'intelligence artificielle.
+
+### 🔍 Description du projet
+
+Application fullstack combinant :
+- **Backend Python** : API Flask avec FAISS (Facebook AI Similarity Search) et Sentence Transformers pour la recherche vectorielle
+- **Frontend Vue.js** : Interface responsive avec Vite
+- **Infrastructure** : Architecture microservices orchestrée par Docker Compose
+
+Le système transforme du texte en vecteurs mathématiques de 384 dimensions capturant le sens sémantique, permettant de trouver des documents par similarité plutôt que par correspondance exacte de mots-clés.
+
+### 🎯 Objectifs atteints
+
+- Application des concepts de **structures de données** (Week 5) pour l'optimisation FAISS
+- Utilisation de **Python** (Week 6) et **SQL** (Week 7) pour le backend
+- Intégration **Flask** (Week 9) pour l'API REST
+- Interface web moderne avec **HTML/CSS/JS** (Week 8)
+- Déploiement via **Docker** pour la reproductibilité
+
+### 📂 Repository du projet
+
+**Lien complet :** [Semantic Search Engine](https://github.com/K-sel/semantic-search-engine)
+
+**Documentation détaillée :** README complet expliquant l'architecture, le fonctionnement des embeddings vectoriels, l'algorithme FAISS et les instructions de déploiement.
+
+---
 
 
 ## 🚀 Objectifs d'apprentissage
