@@ -169,11 +169,10 @@ Le système transforme du texte en vecteurs mathématiques de 384 dimensions cap
 
 ### 🎯 Objectifs atteints
 
-- Application des concepts de **structures de données** (Week 5) pour l'optimisation FAISS
 - Utilisation de **Python** (Week 6) et **SQL** (Week 7) pour le backend
 - Intégration **Flask** (Week 9) pour l'API REST
-- Interface web moderne avec **HTML/CSS/JS** (Week 8)
-- Déploiement via **Docker** pour la reproductibilité
+- Interface web moderne avec **HTML/CSS/JS** (Week 8) - Mes connaissances viennent surtout de mon cursus en école d'ingénieurs pour le Vue.js
+- Déploiement via **Docker** pour la reproductibilité - école d'ingénieurs aussi
 
 ### 📂 Repository du projet
 
