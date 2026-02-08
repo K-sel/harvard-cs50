@@ -19,7 +19,6 @@
 Passionné par l'informatique, j'entreprends cette formation en parallèle de mes études pour :
 - **Renforcer mes bases** en programmation et algorithmes
 - **Découvrir de nouveaux langages** (C, Python)
-- **Préparer mon Master** en Computer Science à la HES-SO
 - **Démontrer ma motivation** et mon approche autodidacte
 
 ## 📋 Progression par semaine
